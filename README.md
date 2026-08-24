@@ -21,8 +21,7 @@
 3. Перетащите файл, скачанный в [release](https://github.com/Dimalanb/remanga-chapter-editor/releases/tag/Release), на страницу;
 4. Нажмите кнопку установить
 
-<img width="738" height="261" alt="image" src="https://github.com/user-attachments/assets/9cb0ea2d-7218-4ec3-8e6c-2e599eb3608a" />
-
+<img width="694" height="212" alt="image" src="https://github.com/user-attachments/assets/6b0a7e66-1d51-4304-b4c3-fc1692a4586b" />
 
 
 ### Использование:
