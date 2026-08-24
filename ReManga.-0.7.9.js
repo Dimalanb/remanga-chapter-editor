@@ -1315,7 +1315,7 @@
         startObserver();
 
         console.log(
-            '[ReManga] Скрипт v0.7.2 загружен'
+            '[ReManga] Скрипт v0.7.9 загружен'
         );
     }
 
