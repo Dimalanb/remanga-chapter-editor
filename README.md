@@ -26,6 +26,7 @@
         src="https://github.com/user-attachments/assets/60b937ce-50bd-4fea-925e-d35c08902ff3"
     />
 </a>
+
 2. В выбранном расширение откройте панель управления, я работаю с tampermonkey;
 
 <img width="498" height="447" alt="image" src="https://github.com/user-attachments/assets/8fe52430-e039-4e39-9b19-b3f6a3a4cf3a" />
