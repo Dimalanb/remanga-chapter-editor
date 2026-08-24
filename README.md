@@ -9,23 +9,8 @@
 
 ### Установка:
 1. Установите расширение для работы с JS файлами;
-<a href="https://www.tampermonkey.net/" target="_blank">
-    <img
-        width="32"
-        height="32"
-        alt="image"
-        src="https://github.com/user-attachments/assets/7cd633c2-f2d0-49f2-b836-0a2ca12d5137"
-    />
-</a>
-
-<a href="https://violentmonkey.github.io/" target="_blank">
-    <img
-        width="32"
-        height="32"
-        alt="image"
-        src="https://github.com/user-attachments/assets/60b937ce-50bd-4fea-925e-d35c08902ff3"
-    />
-</a>
+[Tampermonkey](https://www.tampermonkey.net/)
+[Violentmonkey](https://violentmonkey.github.io/)
 
 2. В выбранном расширение откройте панель управления, я работаю с tampermonkey;
 
